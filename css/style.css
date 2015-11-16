@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+* {
+    font-family: 'Fascinate', cursive;
+    background-color: #CA3A2B;
+    color: #EFEDE7;
+    font-size: 1em;
+    -webkit-user-select: none;
+}
+html {
+    overflow: hidden;
+}
+#t {
+    font-size: 2.4em;
+}
+#timer {
+    margin-top: 5px;
+    font-size: 2em;
+}
+button {
+    margin-top: 15px;
+    // background:none;
+    border:none;
+    outline: none;
+}
+h1 {
+    font-size: 4em;
+}
+h4 {
+    font-size: 1em;
+    margin-bottom: -15px;
+}
+.container-fluid {
+    margin-top: 10% !important;
+    vertical-align: middle;
+}
+.fix {
+    // background-color: #BB3426;
+    // border-radius: 10px;
+    // height: 85px;
+    // margin: 10px 0;
+    font-size: 2.1em;
+}
